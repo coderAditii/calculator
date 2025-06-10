@@ -1,7 +1,6 @@
 body {
     display: flex; justify-content: center;
     align-items: center; height: 100vh;
-    /* background: #020e1a; */
     background-color: #44087dd9;
   }
   .calculator {
@@ -25,23 +24,17 @@ body {
   .c{
     color:#ff6c00;
     
-    /* background-color:rgb(241, 160, 131) ; */
     background-color: transparent;
   }
   .o{
     color:#ff6c00;
-    /* color: rgb(236, 22, 22); */
-    /* background-color: rgb(161, 158, 161); */
     background-color: transparent;
   }
   .num{
     color: white;
-    /* background-color: rgb(160, 182, 201); */
     background-color: transparent;
   }
   .equal{
     color:#ff6c00;
-    /* color:rgb(236, 22, 22); */
-    /* background-color: #a5afb9; */
     background-color: transparent;
   }
